@@ -14,10 +14,14 @@ manifest:
    
     - name: badjeff
       url-base: https://github.com/badjeff 
-  
+   
+
+    - name: zmk
+      url-base: https://github.com/zmk
+
   projects:
     - name: zmk
-      remote: hallagat
+      remote: zmkfirmware
       revision: main
       import: app/west.yml
 
