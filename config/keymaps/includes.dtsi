@@ -1,0 +1,17 @@
+#include <input/processors.dtsi>
+#include <behaviors.dtsi>
+
+#include <dt-bindings/zmk/input_transform.h>
+#include <dt-bindings/zmk/mouse.h>
+#include <dt-bindings/zmk/bt.h>
+#include <dt-bindings/zmk/keys.h>
+#include <dt-bindings/zmk/outputs.h>
+
+#include "../macros/macros_common.dtsi"
+#include "../macros/macros_linux.dtsi"
+#include "../macros/macros_mac.dtsi"
+#include "../behaviors.dtsi"
+#include "../encoders.dtsi"
+#include "../tap-dances.dtsi"
+
+#include "../combos/common.dtsi"

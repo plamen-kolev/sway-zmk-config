@@ -1,0 +1,49 @@
+#include <dt-bindings/zmk/rgb.h>
+
+/ {
+	rgb_encoder_brightness: rgb_encoder_brightness {
+        compatible = "zmk,behavior-sensor-rotate";
+        #sensor-binding-cells = <0>;
+        bindings = <&rgb_ug RGB_BRD>, <&rgb_ug RGB_BRI>;
+        tap-ms = <20>;
+    };
+
+    
+    rgb_encoder_hue: rgb_encoder_hue {
+        compatible = "zmk,behavior-sensor-rotate";
+        #sensor-binding-cells = <0>;
+        bindings = <&rgb_ug RGB_HUD>, <&rgb_ug RGB_HUI>;
+        tap-ms = <20>;
+  };
+
+    rgb_encoder_saturation: rgb_encoder_saturation {
+        compatible = "zmk,behavior-sensor-rotate";
+        #sensor-binding-cells = <0>;
+        bindings = <&rgb_ug RGB_SAD>, <&rgb_ug RGB_SAI>;
+        tap-ms = <20>;
+    };
+
+    encoder_nav_words: encoder_nav_words {
+        compatible = "zmk,behavior-sensor-rotate";
+        #sensor-binding-cells = <0>;
+        bindings = <&kp LC(LEFT)>, <&kp LC(RIGHT)>;
+        tap-ms = <20>;
+    };
+
+    encoder_nav_words_mac: encoder_nav_words_mac {
+        compatible = "zmk,behavior-sensor-rotate";
+        #sensor-binding-cells = <0>;
+        bindings = <&kp LA(LEFT)>, <&kp LA(RIGHT)>;
+        tap-ms = <20>;
+    };
+
+    behaviors {
+        scroll_mouse_move_encoder: sensor_rotate_scroll {
+            compatible = "zmk,behavior-sensor-rotate-var";
+            #sensor-binding-cells = <2>;
+            bindings = <&msc>, <&msc>;
+            tap-ms = <20>;
+        };
+
+    };
+};

@@ -1,0 +1,267 @@
+layout: {zmk_keyboard: sway}
+layers:
+  BASE:
+  - - Q
+    - W
+    - F
+    - P
+    - B
+    - J
+    - L
+    - U
+    - Y
+    - ;
+    - {t: A, h: LSHIFT}
+    - R
+    - {t: S, h: LALT}
+    - {t: T, h: LCTRL}
+    - {t: G, h: LMETA}
+    - {t: M, h: RMETA}
+    - {t: N, h: RCTRL}
+    - {t: E, h: RALT}
+    - I
+    - {t: O, h: LSHIFT}
+  - - Z
+    - X
+    - C
+    - D
+    - V
+    - K
+    - H
+    - ','
+    - .
+    - /
+    - {t: BSPC, h: META}
+    - {t: ESC, h: NAV}
+    - SPACE
+    - {t: LSHIFT, h: sticky}
+    - {t: ENTER, h: PROG}
+    - TAB
+    - {t: PLAY PAUSE, h: META}
+    - {t: NEXT, h: META}
+  MAC:
+  - - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: R, h: LCTRL}
+    - {t: S, h: LEFT ALT}
+    - {t: T, h: LMETA}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: N, h: RMETA}
+    - {t: E, h: RALT}
+    - {t: I, h: RCTRL}
+    - {t: ▽, type: trans}
+  - - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+  NUM:
+  - [TAB, '7', '8', '9', '[', ']', '&', '*', '=', \, '`', '4', '5', '6', (, ), $, '%', ^, '''']
+  - - '0'
+    - '1'
+    - '2'
+    - '3'
+    - '{'
+    - '}'
+    - '!'
+    - '@'
+    - '#'
+    - '-'
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - ''
+    - ''
+  NAV:
+  - [DELETE, HOME, UP, END, 🖱 SCROLL DOWN, PAGE UP, 🖱 Left Click, 🖱UP, 🖱 Right Click, '', BSPC, LEFT, DOWN, RIGHT, 🖱 SCROLL UP, PAGE DOWN, 🖱LEFT, 🖱DOWN, 🖱RIGHT, '']
+  - - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    - 🖱 SCROLL RIGHT
+    - 🖱 SCROLL LEFT
+    - ''
+    - ''
+    - ''
+    - {t: ▽, type: trans}
+    - {type: held}
+    - NUM
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - MUTE
+    - ''
+  PROG:
+  - ['&vim_quit', '&vim_write_quit', '', '', '', '&create_test_mac_intellij', '&run_stop_mac_intellij', '', '', '', '', '&vim_write', '', '', '', '&run_mac_intellij',
+    '&run_debug_intellij', '&evaluate_intellij', '&goto_mac_intellij', '&goout_mac_intellij']
+  - - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    - '&find_in_file_mac_intellij'
+    - '&search_intellij'
+    - '&close_window_mac_intellij'
+    - '&select_opened_file_intellij'
+    - ''
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {type: held}
+    - {t: ▽, type: trans}
+    - ''
+    - ''
+  RGB:
+  - [RGB TOG, RGB BRI, RGB HUI, RGB SPI, RGB SAI, RGB SAI, '', '', '', '', RGB EFF, RGB BRD, RGB HUD, RGB SPD, RGB SAD, RGB SAD, '', '', '', '']
+  - - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    - {t: ▽, type: trans}
+    - {type: held}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - RGB TOG
+    - RGB EFF
+  GAME:
+  - [TAB, Q, W, E, R, T, Y, U, I, O, LSHIFT, A, S, D, F, G, H, J, K, L]
+  - - LCTRL
+    - Z
+    - X
+    - C
+    - V
+    - B
+    - N
+    - M
+    - ','
+    - .
+    - {t: G, h: META}
+    - ESC
+    - SPACE
+    - {t: ▽, type: trans}
+    - {t: ENTER, h: META}
+    - TAB
+    - {t: PLAY PAUSE, h: META}
+    - {t: NEXT, h: META}
+  FUNCTION:
+  - ['', F7, F8, F9, F10, '', PSCRN, SLCK, PAUSE BREAK, '', '', F4, F5, F6, F11, '', INS, HOME, PAGE UP, '']
+  - - ''
+    - F1
+    - F2
+    - F3
+    - F12
+    - ''
+    - DEL
+    - END
+    - PAGE DOWN
+    - ''
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - ''
+    - ''
+  META:
+  - - {t: BT, h: '0'}
+    - {t: BT, h: '1'}
+    - {t: BT, h: '2'}
+    - {t: BT, h: '3'}
+    - {t: BT, h: '4'}
+    - {t: BT, h: '5'}
+    - {t: BT, h: '6'}
+    - ''
+    - ''
+    - ZMK STUDIO
+    - BT CLR
+    - OUT TOG
+    - ''
+    - RESTART
+    - BOOT
+    - BOOT
+    - RESTART
+    - ''
+    - ''
+    - ''
+  - - {t: BASE, h: toggle}
+    - {t: MAC, h: toggle}
+    - {t: GAME, h: toggle}
+    - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    - ''
+    - {type: held}
+    - NAV
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - BOOT
+    - BOOT
+combos:
+- p: [22, 32]
+  k: DELETE
+  o: -1.3
+- p: [23, 32]
+  k: ENTER
+- p: [32, 24]
+  k: TAB
+  o: -0.2
+- p: [0, 1]
+  k: '1'
+  l: [GAME]
+- p: [1, 2]
+  k: '2'
+  l: [GAME]
+- p: [2, 3]
+  k: '3'
+  l: [GAME]
+- p: [3, 4]
+  k: '4'
+  l: [GAME]
+- p: [13, 14]
+  k: '5'
+  l: [GAME]
+- p: [23, 24]
+  k: '6'
+  l: [GAME]

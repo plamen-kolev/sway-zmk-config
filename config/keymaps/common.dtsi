@@ -1,0 +1,52 @@
+#include <dt-bindings/zmk/rgb.h>
+
+&led_strip {
+    chain-length = <18>;
+};
+
+&sk {
+    quick-release;
+};
+
+&mmv {
+  acceleration-exponent = <1>;      // 1
+  time-to-max-speed-ms = <500>;    // 40
+  delay-ms = <0>;                   // 0
+};
+
+&mt { 
+    tapping-term-ms = <200>; 
+
+    /*
+    If you press a tapped hold-tap again within quick-tap-ms milliseconds of the first 
+    press, it will always trigger the tap behavior. This is useful for keys like backspace, 
+    where a quick tap-then-hold can be used to hold it down to delete long parts of text. 
+    By default this behavior is disabled.
+    */
+    // quick-tap-ms = <150>;
+};
+
+&sl { release-after-ms = <1000>; };
+
+&mmv_input_listener {
+    input-processors = <&zip_xy_scaler 1 1>;
+ 
+    custom_sensitivity {
+        layers = <MAC_L>;
+        input-processors = <&zip_xy_scaler 3 2>;
+        process-next;
+    };
+
+};
+
+/ {
+    
+    conditional_layers {
+        compatible = "zmk,conditional-layers";
+        rgb_layer {
+            if-layers = <NAV_L NUM_L>;
+            then-layer = <RGB_L>;
+        };
+
+    };
+};

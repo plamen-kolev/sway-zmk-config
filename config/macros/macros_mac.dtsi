@@ -1,0 +1,65 @@
+/ {
+    macros {
+
+        goto_mac_intellij: goto_mac_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RG(B)>;
+        };
+
+        goout_mac_intellij: goout_mac_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RA(RG(LEFT_ARROW))>;
+        };
+
+        create_test_mac_intellij: create_test_mac_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RG(RS(T))>;
+        };
+
+        run_stop_mac_intellij: run_stop_mac_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RG(F2)>;
+        };
+
+        close_window_mac_intellij: close_window_mac_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RG(W)>;
+        };
+
+        find_usages_mac_intellij: find_usages_mac_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RG(B)>;
+        };
+
+        run_mac_intellij: run_mac_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RS(RC(R))>;
+        };
+
+       find_in_file_mac_intellij: find_in_file_mac_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RS(RG(F))>;
+        };
+
+
+
+
+
+// unused
+        search_content_mac_intellij: search_content_mac_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RG(RS(F))>;
+        };
+
+    };
+
+};

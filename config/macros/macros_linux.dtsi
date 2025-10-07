@@ -1,0 +1,60 @@
+/ {
+    macros {
+        goto_linux_intellij: goto_linux_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RC(B)>;
+        };
+
+        goout_linux_intellij: goout_linux_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RA(RC(LEFT_ARROW))>;
+        };
+
+        create_test_linux_intellij: create_test_linux_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RC(RS(T))>;
+        };
+
+        search_content_linux_intellij: search_content_linux_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RC(RS(F))>;
+        };
+
+        run_stop_linux_intellij: run_stop_linux_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RC(F2)>;
+        };
+
+        close_window_linux_intellij: close_window_linux_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RC(F4)>;
+        };
+
+        find_usages_linux_intellij: find_usages_linux_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RC(B)>;
+        };
+
+        run_linux_intellij: run_linux_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RC(RS(F10))>;
+        };
+
+        find_in_file_linux_intellij: find_in_file_linux_intellij {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RS(RC(F))>;
+        };
+
+
+    };
+
+};

@@ -1,0 +1,20 @@
+#include <dt-bindings/zmk/keys.h>
+
+/ {
+    behaviors {
+        td_tab: tab_tap_dance {
+            compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <200>;
+            bindings = <&lt FN_L TAB>, <&kp TAB>;
+        };
+
+        td_space: td_space {
+        	compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <100>;
+            bindings = <&slts NUM_L SPACE>, <&kp SPACE>;
+        };
+    };
+
+};

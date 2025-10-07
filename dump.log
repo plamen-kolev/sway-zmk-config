@@ -1,0 +1,615 @@
+zmk: split_central_device_found: [DEVICE]: C8:52:E3:C8:48:B0 (random), AD evt type 0, AD data len 8, RSSI -61
+[00:00:16.153,137] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:16.562,408] <dbg> zmk: split_central_device_found: [DEVICE]: 60:41:F1:F0:56:3D (random), AD evt type 2, AD data len 28, RSSI -85
+[00:00:16.671,051] <dbg> zmk: split_central_device_found: [DEVICE]: C2:EA:F5:F4:D9:FD (random), AD evt type 3, AD data len 27, RSSI -65
+[00:00:16.747,528] <dbg> zmk: split_central_device_found: [DEVICE]: E9:CB:6A:A3:D9:D5 (random), AD evt type 0, AD data len 31, RSSI -74
+[00:00:16.747,558] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:17.289,520] <dbg> zmk: split_central_device_found: [DEVICE]: EB:F5:FE:B8:A9:C5 (random), AD evt type 3, AD data len 8, RSSI -44
+[00:00:17.454,772] <dbg> zmk: split_central_device_found: [DEVICE]: C9:FC:B0:D7:3D:5F (random), AD evt type 0, AD data len 8, RSSI -77
+[00:00:17.454,803] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:17.687,042] <dbg> zmk: split_central_device_found: [DEVICE]: 50:D3:74:86:EF:39 (random), AD evt type 2, AD data len 31, RSSI -67
+[00:00:17.884,490] <dbg> zmk: split_central_device_found: [DEVICE]: 45:CB:48:C8:9F:71 (random), AD evt type 0, AD data len 19, RSSI -78
+[00:00:17.884,521] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:17.884,521] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:17.884,552] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:17.892,303] <dbg> zmk: split_central_device_found: [DEVICE]: 09:DD:10:44:4B:41 (random), AD evt type 0, AD data len 28, RSSI -82
+[00:00:17.892,303] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:17.892,333] <dbg> zmk: split_central_eir_parse: [AD]: 22 data_len 23
+[00:00:18.011,413] <dbg> zmk: split_central_device_found: [DEVICE]: 2B:4F:37:BD:30:0C (random), AD evt type 3, AD data len 31, RSSI -83
+[00:00:18.109,680] <dbg> zmk: split_central_device_found: [DEVICE]: 68:88:6F:E2:88:3E (random), AD evt type 2, AD data len 31, RSSI -78
+[00:00:18.233,428] <dbg> zmk: split_central_device_found: [DEVICE]: FD:C1:D6:4F:D8:C4 (random), AD evt type 0, AD data len 8, RSSI -51
+[00:00:18.233,459] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:18.238,586] <dbg> zmk: split_central_device_found: [DEVICE]: 4E:15:75:84:E1:1D (random), AD evt type 0, AD data len 18, RSSI -72
+[00:00:18.238,616] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:18.238,616] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:18.238,647] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:18.242,370] <dbg> zmk: split_central_device_found: [DEVICE]: 71:17:B1:B6:DD:4C (random), AD evt type 0, AD data len 19, RSSI -74
+[00:00:18.242,370] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:18.242,401] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:18.242,431] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:18.246,002] <dbg> zmk: split_central_device_found: [DEVICE]: E7:E3:7B:EC:8F:69 (random), AD evt type 3, AD data len 8, RSSI -71
+[00:00:18.348,632] <dbg> zmk: split_central_device_found: [DEVICE]: EE:53:0A:CA:60:98 (random), AD evt type 0, AD data len 13, RSSI -73
+[00:00:18.348,663] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:18.348,663] <dbg> zmk: split_central_eir_parse: [AD]: 3 data_len 2
+[00:00:18.348,693] <dbg> zmk: split_central_eir_parse: [AD]: 9 data_len 4
+[00:00:18.424,774] <dbg> zmk: split_central_device_found: [DEVICE]: C8:90:3F:94:46:8C (random), AD evt type 3, AD data len 8, RSSI -89
+[00:00:18.657,440] <dbg> zmk: split_central_device_found: [DEVICE]: 7A:C1:EE:13:97:C4 (random), AD evt type 0, AD data len 18, RSSI -87
+[00:00:18.657,470] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:18.657,501] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:18.657,501] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:18.658,386] <dbg> zmk: split_central_device_found: [DEVICE]: 5C:A6:20:09:E4:E0 (random), AD evt type 0, AD data len 18, RSSI -80
+[00:00:18.658,416] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:18.658,416] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:18.658,447] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:18.783,142] <dbg> zmk: split_central_device_found: [DEVICE]: 45:CE:C2:D4:94:4D (random), AD evt type 0, AD data len 17, RSSI -45
+[00:00:18.783,172] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:18.783,172] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:18.783,203] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:18.787,902] <dbg> zmk: split_central_device_found: [DEVICE]: 6F:92:67:83:BC:CC (random), AD evt type 2, AD data len 31, RSSI -82
+[00:00:19.068,847] <dbg> zmk: split_central_device_found: [DEVICE]: F1:10:F4:22:10:4C (random), AD evt type 3, AD data len 31, RSSI -61
+[00:00:00.318,237] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,267] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,298] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,359] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,359] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,389] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,420] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,420] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,450] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,481] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,481] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,511] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,542] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,572] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,572] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,603] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,634] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,634] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,664] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,695] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,695] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,725] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,756] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,756] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.318,786] <dbg> zmk: behavior_macro_init: Precalculate initial release state:
+[00:00:00.369,171] <dbg> zmk: vddh_init: VDDHDIV5 setup returned 0
+[00:00:00.379,425] <err> pinnacle: bad ret val 0 - 0
+[00:00:00.379,455] <err> pinnacle: can't write -5
+*** Booting Zephyr OS build 0fa4cc26d8b1 ***
+[00:00:00.385,803] <inf> fs_nvs: 8 Sectors of 4096 bytes
+[00:00:00.385,833] <inf> fs_nvs: alloc wra: 0, ee8
+[00:00:00.385,833] <inf> fs_nvs: data wra: 0, 1b0
+[00:00:00.387,481] <inf> bt_hci_core: HW Platform: Nordic Semiconductor (0x0002)
+[00:00:00.387,512] <inf> bt_hci_core: HW Variant: nRF52x (0x0002)
+[00:00:00.387,542] <inf> bt_hci_core: Firmware: Standard Bluetooth controller (0x00) Version 3.5 Build 0
+[00:00:00.387,878] <inf> bt_hci_core: No ID address. App must call settings_load()
+[00:00:00.389,251] <dbg> zmk: kscan_matrix_init_input_inst: Configured pin 15 on gpio@50000300 for input
+[00:00:00.389,312] <dbg> zmk: kscan_matrix_init_input_inst: Configured pin 31 on gpio@50000000 for input
+[00:00:00.389,373] <dbg> zmk: kscan_matrix_init_input_inst: Configured pin 29 on gpio@50000000 for input
+[00:00:00.389,404] <dbg> zmk: kscan_matrix_init_input_inst: Configured pin 2 on gpio@50000000 for input
+[00:00:00.389,465] <dbg> zmk: kscan_matrix_init_output_inst: Configured pin 17 on gpio@50000000 for output
+[00:00:00.389,495] <dbg> zmk: kscan_matrix_init_output_inst: Configured pin 20 on gpio@50000000 for output
+[00:00:00.389,556] <dbg> zmk: kscan_matrix_init_output_inst: Configured pin 22 on gpio@50000000 for output
+[00:00:00.389,587] <dbg> zmk: kscan_matrix_init_output_inst: Configured pin 24 on gpio@50000000 for output
+[00:00:00.389,648] <dbg> zmk: kscan_matrix_init_output_inst: Configured pin 0 on gpio@50000300 for output
+[00:00:00.389,892] <dbg> zmk: zmk_sensors_init_item: Init sensor at index 0
+[00:00:00.394,989] <dbg> zmk: zmk_sensors_init_item: Init sensor at index 1
+[00:00:00.395,019] <dbg> zmk: zmk_sensors_init_item: No local device for 1
+[00:00:00.395,050] <dbg> zmk: zmk_usb_get_conn_state: state: 11
+[00:00:00.395,050] <dbg> zmk: get_selected_transport: No endpoint transports are ready.
+[00:00:00.395,355] <inf> zmk: Welcome to ZMK!
+
+[00:00:00.395,660] <dbg> zmk: ble_profiles_handle_set: Setting BLE value peripheral_addresses/0
+[00:00:00.396,209] <inf> usb_hid: Device connected
+[00:00:00.396,209] <dbg> zmk: zmk_usb_get_conn_state: state: 2
+[00:00:00.396,270] <dbg> zmk: zmk_usb_get_conn_state: state: 2
+[00:00:00.396,270] <dbg> zmk: zmk_usb_get_conn_state: state: 2
+[00:00:00.396,301] <dbg> zmk: get_selected_transport: No endpoint transports are ready.
+[00:00:00.397,857] <inf> bt_hci_core: Identity: FA:48:FA:A2:33:A1 (random)
+[00:00:00.397,888] <inf> bt_hci_core: HCI: version 5.4 (0x0d) revision 0x0000, manufacturer 0x05f1
+[00:00:00.397,918] <inf> bt_hci_core: LMP: version 5.4 (0x0d) subver 0xffff
+[00:00:00.399,322] <inf> usb_hid: Device suspended
+[00:00:00.399,322] <dbg> zmk: zmk_usb_get_conn_state: state: 5
+[00:00:00.399,353] <dbg> zmk: zmk_usb_get_conn_state: state: 5
+[00:00:00.399,383] <dbg> zmk: zmk_usb_get_conn_state: state: 5
+[00:00:00.399,414] <dbg> zmk: get_selected_transport: No endpoint transports are ready.
+[00:00:00.401,580] <dbg> zmk: zmk_ble_ready: ready? 0
+[00:00:00.401,580] <dbg> zmk: update_advertising: advertising from 0 to 2
+[00:00:00.402,679] <dbg> zmk: start_scanning: Scanning successfully started
+[00:00:00.472,290] <dbg> zmk: split_central_device_found: [DEVICE]: 50:D3:74:86:EF:39 (random), AD evt type 2, AD data len 31, RSSI -62
+[00:00:00.475,616] <dbg> zmk: split_central_device_found: [DEVICE]: 09:DD:10:44:4B:41 (random), AD evt type 0, AD data len 28, RSSI -81
+[00:00:00.475,646] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:00.475,646] <dbg> zmk: split_central_eir_parse: [AD]: 22 data_len 23
+[00:00:00.492,858] <dbg> zmk: split_central_device_found: [DEVICE]: 6F:92:67:83:BC:CC (random), AD evt type 2, AD data len 31, RSSI -84
+[00:00:00.551,177] <dbg> zmk: split_central_device_found: [DEVICE]: C0:EF:32:AD:8F:EE (random), AD evt type 3, AD data len 8, RSSI -87
+[00:00:00.561,553] <inf> usb_hid: Device resumed
+[00:00:00.561,553] <inf> usb_hid: from suspend
+[00:00:00.561,553] <dbg> zmk: zmk_usb_get_conn_state: state: 6
+[00:00:00.561,614] <inf> usb_hid: Device reset detected
+[00:00:00.561,645] <dbg> zmk: zmk_usb_get_conn_state: state: 1
+[00:00:00.561,676] <dbg> zmk: zmk_usb_get_conn_state: state: 1
+[00:00:00.561,676] <dbg> zmk: zmk_usb_get_conn_state: state: 1
+[00:00:00.561,706] <dbg> zmk: get_selected_transport: No endpoint transports are ready.
+[00:00:00.586,364] <dbg> zmk: split_central_device_found: [DEVICE]: DC:47:76:CD:F6:DF (random), AD evt type 0, AD data len 31, RSSI -64
+[00:00:00.586,395] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:00.651,458] <dbg> zmk: split_central_device_found: [DEVICE]: 2B:4F:37:BD:30:0C (random), AD evt type 3, AD data len 31, RSSI -87
+[00:00:00.653,472] <dbg> zmk: split_central_device_found: [DEVICE]: 24:4B:03:88:BA:B4 (public), AD evt type 3, AD data len 28, RSSI -86
+[00:00:00.669,891] <dbg> zmk: vddh_sample_fetch: ADC raw 3026 ~ 4430 mV => 100%
+[00:00:00.669,921] <dbg> zmk: zmk_battery_update: Setting BAS GATT battery level to 100.
+[00:00:00.754,943] <inf> usb_hid: Device reset detected
+[00:00:00.754,943] <dbg> zmk: zmk_usb_get_conn_state: state: 1
+[00:00:00.754,974] <dbg> zmk: zmk_usb_get_conn_state: state: 1
+[00:00:00.755,004] <dbg> zmk: zmk_usb_get_conn_state: state: 1
+[00:00:00.755,035] <dbg> zmk: get_selected_transport: No endpoint transports are ready.
+[00:00:00.790,496] <dbg> zmk: split_central_device_found: [DEVICE]: 40:1F:C2:95:86:22 (random), AD evt type 0, AD data len 19, RSSI -82
+[00:00:00.790,496] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:00.790,527] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:00.790,527] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:00.792,358] <dbg> zmk: split_central_device_found: [DEVICE]: 42:D9:4B:3D:0D:CF (random), AD evt type 0, AD data len 17, RSSI -89
+[00:00:00.792,388] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:00.792,388] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:00.792,419] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:00.895,446] <dbg> zmk: split_central_device_found: [DEVICE]: B0:99:D7:E1:6C:83 (public), AD evt type 3, AD data len 28, RSSI -87
+[00:00:00.895,782] <inf> usb_hid: Device configured
+[00:00:00.895,812] <dbg> zmk: zmk_usb_get_conn_state: state: 3
+[00:00:00.895,843] <dbg> zmk: zmk_usb_get_conn_state: state: 3
+[00:00:00.895,874] <dbg> zmk: zmk_usb_get_conn_state: state: 3
+[00:00:00.895,904] <dbg> zmk: get_selected_transport: Only USB is ready.
+[00:00:00.895,904] <dbg> zmk: zmk_hid_mouse_clear: Mouse report cleared
+[00:00:00.895,904] <dbg> zmk: zmk_endpoints_send_report: usage page 0x07
+[00:00:00.895,935] <dbg> zmk: zmk_endpoints_send_report: usage page 0x0C
+[00:00:00.895,996] <inf> zmk: Endpoint changed: USB
+[00:00:00.896,057] <wrn> zmk: Not sending, no active address for current profile
+[00:00:00.896,118] <wrn> zmk: Not sending, no active address for current profile
+[00:00:00.900,329] <dbg> zmk: zmk_pointing_resolution_multipliers_process_report: Update resolution multipliers: endpoint=0, wheel=15, hor_wheel=15
+[00:00:00.901,397] <dbg> zmk: split_central_device_found: [DEVICE]: 68:88:6F:E2:88:3E (random), AD evt type 2, AD data len 31, RSSI -85
+[00:00:00.905,120] <dbg> zmk: split_central_device_found: [DEVICE]: C1:53:1F:3C:B4:F3 (random), AD evt type 0, AD data len 31, RSSI -67
+[00:00:00.905,151] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:00.969,024] <dbg> zmk: split_central_device_found: [DEVICE]: 5E:2B:4B:A6:12:60 (random), AD evt type 3, AD data len 17, RSSI -87
+[00:00:01.245,574] <dbg> zmk: split_central_device_found: [DEVICE]: 0D:F3:FB:E0:CD:C7 (random), AD evt type 3, AD data len 31, RSSI -76
+[00:00:01.255,126] <dbg> zmk: split_central_device_found: [DEVICE]: 4E:15:75:84:E1:1D (random), AD evt type 0, AD data len 18, RSSI -64
+[00:00:01.255,157] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:01.255,157] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:01.255,187] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:01.270,843] <dbg> zmk: split_central_device_found: [DEVICE]: D7:C9:9A:C9:53:03 (random), AD evt type 3, AD data len 8, RSSI -78
+[00:00:01.324,737] <dbg> zmk: split_central_device_found: [DEVICE]: 71:17:B1:B6:DD:4C (random), AD evt type 0, AD data len 19, RSSI -75
+[00:00:01.324,768] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:01.324,768] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:01.324,798] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:01.367,340] <dbg> zmk: split_central_device_found: [DEVICE]: FB:3D:64:7F:25:3D (random), AD evt type 3, AD data len 8, RSSI -71
+[00:00:01.391,418] <dbg> zmk: split_central_device_found: [DEVICE]: 5C:A6:20:09:E4:E0 (random), AD evt type 0, AD data len 18, RSSI -81
+[00:00:01.391,448] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:01.391,448] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:01.391,479] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:01.791,809] <dbg> zmk: split_central_device_found: [DEVICE]: 45:CE:C2:D4:94:4D (random), AD evt type 0, AD data len 17, RSSI -46
+[00:00:01.791,809] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:01.791,839] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:01.791,870] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:01.858,856] <dbg> zmk: split_central_device_found: [DEVICE]: C9:13:75:42:27:4D (random), AD evt type 0, AD data len 31, RSSI -77
+[00:00:01.858,886] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:02.146,789] <dbg> zmk: split_central_device_found: [DEVICE]: 50:D3:74:86:EF:39 (random), AD evt type 2, AD data len 31, RSSI -63
+[00:00:02.586,212] <dbg> zmk: split_central_device_found: [DEVICE]: DC:47:76:CD:F6:DF (random), AD evt type 0, AD data len 31, RSSI -68
+[00:00:02.586,242] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:02.872,406] <dbg> zmk: split_central_device_found: [DEVICE]: 77:D0:06:98:7C:A5 (random), AD evt type 0, AD data len 18, RSSI -81
+[00:00:02.872,436] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:02.872,467] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:02.872,467] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:03.058,959] <dbg> zmk: split_central_device_found: [DEVICE]: C8:52:E3:C8:48:B0 (random), AD evt type 0, AD data len 8, RSSI -63
+[00:00:03.058,959] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:03.133,697] <dbg> zmk: split_central_device_found: [DEVICE]: FD:C1:D6:4F:D8:C4 (random), AD evt type 0, AD data len 8, RSSI -51
+[00:00:03.133,697] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:03.314,239] <dbg> zmk: split_central_device_found: [DEVICE]: 09:DD:10:44:4B:41 (random), AD evt type 0, AD data len 28, RSSI -81
+[00:00:03.314,270] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:03.314,300] <dbg> zmk: split_central_eir_parse: [AD]: 22 data_len 23
+[00:00:03.708,129] <dbg> zmk: split_central_device_found: [DEVICE]: 68:88:6F:E2:88:3E (random), AD evt type 2, AD data len 31, RSSI -82
+[00:00:03.833,801] <dbg> zmk: split_central_device_found: [DEVICE]: 24:4B:03:88:BA:B4 (public), AD evt type 3, AD data len 28, RSSI -87
+[00:00:03.896,453] <dbg> zmk: split_central_device_found: [DEVICE]: F9:B5:9C:43:B7:09 (random), AD evt type 0, AD data len 31, RSSI -76
+[00:00:03.896,484] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:04.128,082] <dbg> zmk: split_central_device_found: [DEVICE]: B0:99:D7:E1:6C:83 (public), AD evt type 3, AD data len 28, RSSI -82
+[00:00:04.267,608] <dbg> zmk: split_central_device_found: [DEVICE]: 0D:F3:FB:E0:CD:C7 (random), AD evt type 3, AD data len 31, RSSI -79
+[00:00:04.269,134] <dbg> zmk: split_central_device_found: [DEVICE]: 4E:15:75:84:E1:1D (random), AD evt type 0, AD data len 18, RSSI -73
+[00:00:04.269,134] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:04.269,165] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:04.269,165] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:04.326,202] <dbg> zmk: split_central_device_found: [DEVICE]: 71:17:B1:B6:DD:4C (random), AD evt type 0, AD data len 19, RSSI -79
+[00:00:04.326,202] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:04.326,232] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:04.326,232] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:04.617,797] <dbg> zmk: split_central_device_found: [DEVICE]: 2B:4F:37:BD:30:0C (random), AD evt type 3, AD data len 31, RSSI -82
+[00:00:05.276,306] <dbg> zmk: split_central_device_found: [DEVICE]: D7:C9:9A:C9:53:03 (random), AD evt type 3, AD data len 8, RSSI -78
+[00:00:05.411,743] <dbg> zmk: split_central_device_found: [DEVICE]: D6:CF:74:9D:DA:1C (random), AD evt type 0, AD data len 31, RSSI -84
+[00:00:05.411,773] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:05.511,383] <dbg> zmk: split_central_device_found: [DEVICE]: 5C:A6:20:09:E4:E0 (random), AD evt type 0, AD data len 18, RSSI -82
+[00:00:05.511,413] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:05.511,413] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:05.511,444] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:05.580,993] <dbg> zmk: split_central_device_found: [DEVICE]: C2:EA:F5:F4:D9:FD (random), AD evt type 3, AD data len 27, RSSI -55
+[00:00:05.685,119] <dbg> zmk: split_central_device_found: [DEVICE]: 50:D3:74:86:EF:39 (random), AD evt type 2, AD data len 31, RSSI -63
+[00:00:05.820,190] <dbg> zmk: split_central_device_found: [DEVICE]: 7A:C1:EE:13:97:C4 (random), AD evt type 0, AD data len 18, RSSI -87
+[00:00:05.820,220] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:05.820,220] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:05.820,251] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:06.004,547] <dbg> zmk: split_central_device_found: [DEVICE]: 60:41:F1:F0:56:3D (random), AD evt type 2, AD data len 28, RSSI -85
+[00:00:07.147,827] <dbg> zmk: split_central_device_found: [DEVICE]: FD:C1:D6:4F:D8:C4 (random), AD evt type 0, AD data len 8, RSSI -56
+[00:00:07.147,857] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:07.255,920] <dbg> zmk: split_central_device_found: [DEVICE]: EE:53:0A:CA:60:98 (random), AD evt type 0, AD data len 13, RSSI -82
+[00:00:07.255,950] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:07.255,950] <dbg> zmk: split_central_eir_parse: [AD]: 3 data_len 2
+[00:00:07.255,981] <dbg> zmk: split_central_eir_parse: [AD]: 9 data_len 4
+[00:00:07.386,627] <dbg> zmk: split_central_device_found: [DEVICE]: FB:3D:64:7F:25:3D (random), AD evt type 3, AD data len 8, RSSI -72
+[00:00:07.810,974] <dbg> zmk: split_central_device_found: [DEVICE]: 68:88:6F:E2:88:3E (random), AD evt type 2, AD data len 31, RSSI -79
+[00:00:07.906,646] <dbg> zmk: split_central_device_found: [DEVICE]: F9:B5:9C:43:B7:09 (random), AD evt type 0, AD data len 31, RSSI -76
+[00:00:07.906,677] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:08.111,846] <dbg> zmk: split_central_device_found: [DEVICE]: 45:CE:C2:D4:94:4D (random), AD evt type 0, AD data len 17, RSSI -46
+[00:00:08.111,877] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:08.111,907] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:08.111,907] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:08.344,116] <dbg> zmk: split_central_device_found: [DEVICE]: C9:FC:B0:D7:3D:5F (random), AD evt type 0, AD data len 8, RSSI -77
+[00:00:08.344,146] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:08.455,932] <dbg> zmk: split_central_device_found: [DEVICE]: 0D:F3:FB:E0:CD:C7 (random), AD evt type 3, AD data len 31, RSSI -79
+[00:00:08.458,526] <dbg> zmk: split_central_device_found: [DEVICE]: 09:DD:10:44:4B:41 (random), AD evt type 0, AD data len 28, RSSI -83
+[00:00:08.458,557] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:08.458,557] <dbg> zmk: split_central_eir_parse: [AD]: 22 data_len 23
+[00:00:08.517,364] <dbg> zmk: split_central_device_found: [DEVICE]: 6F:92:67:83:BC:CC (random), AD evt type 2, AD data len 31, RSSI -82
+[00:00:08.518,035] <dbg> zmk: split_central_device_found: [DEVICE]: 2B:4F:37:BD:30:0C (random), AD evt type 3, AD data len 31, RSSI -86
+[00:00:08.525,970] <dbg> zmk: split_central_device_found: [DEVICE]: 71:17:B1:B6:DD:4C (random), AD evt type 0, AD data len 19, RSSI -74
+[00:00:08.525,970] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:08.526,000] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:08.526,000] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:08.772,766] <dbg> zmk: split_central_device_found: [DEVICE]: 42:D9:4B:3D:0D:CF (random), AD evt type 0, AD data len 17, RSSI -84
+[00:00:08.772,766] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:08.772,796] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:08.772,796] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:08.882,080] <dbg> zmk: split_central_device_found: [DEVICE]: B0:99:D7:E1:6C:83 (public), AD evt type 3, AD data len 28, RSSI -86
+[00:00:08.948,394] <dbg> zmk: split_central_device_found: [DEVICE]: 4E:15:75:84:E1:1D (random), AD evt type 0, AD data len 18, RSSI -62
+[00:00:08.948,425] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:08.948,455] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:08.948,455] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:09.048,431] <dbg> zmk: split_central_device_found: [DEVICE]: 50:D3:74:86:EF:39 (random), AD evt type 2, AD data len 31, RSSI -63
+[00:00:09.059,692] <dbg> zmk: split_central_device_found: [DEVICE]: 53:3E:97:E4:30:76 (random), AD evt type 3, AD data len 17, RSSI -75
+[00:00:09.064,117] <dbg> zmk: split_central_device_found: [DEVICE]: 40:1F:C2:95:86:22 (random), AD evt type 0, AD data len 19, RSSI -83
+[00:00:09.064,117] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:09.064,147] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:09.064,147] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:09.591,979] <dbg> zmk: split_central_device_found: [DEVICE]: C2:EA:F5:F4:D9:FD (random), AD evt type 3, AD data len 27, RSSI -58
+[00:00:10.187,866] <dbg> zmk: split_central_device_found: [DEVICE]: 5C:A6:20:09:E4:E0 (random), AD evt type 0, AD data len 18, RSSI -81
+[00:00:10.187,896] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:10.187,927] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:10.187,927] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:10.205,749] <dbg> zmk: split_central_device_found: [DEVICE]: EB:F5:FE:B8:A9:C5 (random), AD evt type 3, AD data len 8, RSSI -50
+[00:00:11.164,916] <dbg> zmk: split_central_device_found: [DEVICE]: FD:C1:D6:4F:D8:C4 (random), AD evt type 0, AD data len 8, RSSI -53
+[00:00:11.164,916] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:11.292,510] <dbg> zmk: split_central_device_found: [DEVICE]: D7:C9:9A:C9:53:03 (random), AD evt type 3, AD data len 8, RSSI -76
+[00:00:11.518,310] <dbg> zmk: split_central_device_found: [DEVICE]: 68:88:6F:E2:88:3E (random), AD evt type 2, AD data len 31, RSSI -77
+[00:00:11.699,676] <dbg> zmk: split_central_device_found: [DEVICE]: 45:CE:C2:D4:94:4D (random), AD evt type 0, AD data len 17, RSSI -45
+[00:00:11.699,707] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:11.699,737] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:11.699,737] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:11.805,084] <dbg> zmk: split_central_device_found: [DEVICE]: F6:34:1B:0B:10:A4 (random), AD evt type 0, AD data len 31, RSSI -80
+[00:00:11.805,084] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:11.823,608] <dbg> zmk: split_central_device_found: [DEVICE]: 0D:F3:FB:E0:CD:C7 (random), AD evt type 3, AD data len 31, RSSI -81
+[00:00:11.992,614] <dbg> zmk: split_central_device_found: [DEVICE]: F1:10:F4:22:10:4C (random), AD evt type 3, AD data len 31, RSSI -62
+[00:00:12.062,530] <dbg> zmk: split_central_device_found: [DEVICE]: 71:17:B1:B6:DD:4C (random), AD evt type 0, AD data len 19, RSSI -77
+[00:00:12.062,561] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:12.062,591] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:12.062,591] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:12.072,143] <dbg> zmk: split_central_device_found: [DEVICE]: 42:D9:4B:3D:0D:CF (random), AD evt type 0, AD data len 17, RSSI -81
+[00:00:12.072,143] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:12.072,174] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:12.072,174] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:12.133,453] <dbg> zmk: split_central_device_found: [DEVICE]: B0:99:D7:E1:6C:83 (public), AD evt type 3, AD data len 28, RSSI -82
+[00:00:12.355,010] <dbg> zmk: split_central_device_found: [DEVICE]: C9:FC:B0:D7:3D:5F (random), AD evt type 0, AD data len 8, RSSI -76
+[00:00:12.355,010] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:12.532,531] <dbg> zmk: split_central_device_found: [DEVICE]: 2B:4F:37:BD:30:0C (random), AD evt type 3, AD data len 31, RSSI -82
+[00:00:12.538,208] <dbg> zmk: split_central_device_found: [DEVICE]: 4E:15:75:84:E1:1D (random), AD evt type 0, AD data len 18, RSSI -71
+[00:00:12.538,208] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:12.538,238] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:12.538,238] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:12.782,440] <dbg> zmk: split_central_device_found: [DEVICE]: 50:D3:74:86:EF:39 (random), AD evt type 2, AD data len 31, RSSI -64
+[00:00:12.902,404] <dbg> zmk: split_central_device_found: [DEVICE]: C1:53:1F:3C:B4:F3 (random), AD evt type 0, AD data len 31, RSSI -64
+[00:00:12.902,435] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:13.079,071] <dbg> zmk: split_central_device_found: [DEVICE]: C8:52:E3:C8:48:B0 (random), AD evt type 0, AD data len 8, RSSI -68
+[00:00:13.079,101] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:13.198,394] <dbg> zmk: split_central_device_found: [DEVICE]: 40:1F:C2:95:86:22 (random), AD evt type 0, AD data len 19, RSSI -82
+[00:00:13.198,425] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:13.198,455] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:13.198,455] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:13.200,225] <dbg> zmk: split_central_device_found: [DEVICE]: 6F:92:67:83:BC:CC (random), AD evt type 2, AD data len 31, RSSI -85
+[00:00:13.857,116] <dbg> zmk: split_central_device_found: [DEVICE]: E6:97:13:0B:7D:6B (random), AD evt type 3, AD data len 8, RSSI -81
+[00:00:14.580,780] <dbg> zmk: split_central_device_found: [DEVICE]: 5C:A6:20:09:E4:E0 (random), AD evt type 0, AD data len 18, RSSI -84
+[00:00:14.580,810] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:14.580,810] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:14.580,841] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:14.690,155] <dbg> zmk: split_central_device_found: [DEVICE]: C5:BD:61:C1:C1:89 (random), AD evt type 3, AD data len 31, RSSI -81
+[00:00:14.752,624] <dbg> zmk: split_central_device_found: [DEVICE]: 09:DD:10:44:4B:41 (random), AD evt type 0, AD data len 28, RSSI -83
+[00:00:14.752,655] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:14.752,655] <dbg> zmk: split_central_eir_parse: [AD]: 22 data_len 23
+[00:00:14.770,507] <dbg> zmk: split_central_device_found: [DEVICE]: 5E:2B:4B:A6:12:60 (random), AD evt type 3, AD data len 17, RSSI -88
+[00:00:14.865,081] <dbg> zmk: split_central_device_found: [DEVICE]: 68:88:6F:E2:88:3E (random), AD evt type 2, AD data len 31, RSSI -73
+[00:00:15.004,089] <dbg> zmk: split_central_device_found: [DEVICE]: 45:CE:C2:D4:94:4D (random), AD evt type 0, AD data len 17, RSSI -48
+[00:00:15.004,089] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:15.004,119] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:15.004,119] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:15.174,804] <dbg> zmk: split_central_device_found: [DEVICE]: FD:C1:D6:4F:D8:C4 (random), AD evt type 0, AD data len 8, RSSI -53
+[00:00:15.174,835] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:15.233,612] <dbg> zmk: split_central_device_found: [DEVICE]: B0:99:D7:E1:6C:83 (public), AD evt type 3, AD data len 28, RSSI -86
+[00:00:15.299,102] <dbg> zmk: split_central_device_found: [DEVICE]: D7:C9:9A:C9:53:03 (random), AD evt type 3, AD data len 8, RSSI -77
+[00:00:15.411,987] <dbg> zmk: split_central_device_found: [DEVICE]: FB:3D:64:7F:25:3D (random), AD evt type 3, AD data len 8, RSSI -75
+[00:00:15.433,502] <dbg> zmk: split_central_device_found: [DEVICE]: D6:CF:74:9D:DA:1C (random), AD evt type 0, AD data len 31, RSSI -85
+[00:00:15.433,502] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:15.603,759] <dbg> zmk: split_central_device_found: [DEVICE]: C2:EA:F5:F4:D9:FD (random), AD evt type 3, AD data len 27, RSSI -56
+[00:00:15.661,499] <dbg> zmk: split_central_device_found: [DEVICE]: 71:17:B1:B6:DD:4C (random), AD evt type 0, AD data len 19, RSSI -75
+[00:00:15.661,499] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:15.661,529] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:15.661,560] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:15.673,034] <dbg> zmk: split_central_device_found: [DEVICE]: E9:CB:6A:A3:D9:D5 (random), AD evt type 0, AD data len 31, RSSI -64
+[00:00:15.673,065] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:15.732,849] <dbg> zmk: split_central_device_found: [DEVICE]: 7A:C1:EE:13:97:C4 (random), AD evt type 0, AD data len 18, RSSI -87
+[00:00:15.732,879] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:15.732,910] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:15.732,910] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:15.835,815] <dbg> zmk: split_central_device_found: [DEVICE]: 4E:15:75:84:E1:1D (random), AD evt type 0, AD data len 18, RSSI -63
+[00:00:15.835,845] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:15.835,876] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:15.835,876] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:15.951,049] <dbg> zmk: split_central_device_found: [DEVICE]: 50:D3:74:86:EF:39 (random), AD evt type 2, AD data len 31, RSSI -64
+[00:00:15.953,735] <dbg> zmk: split_central_device_found: [DEVICE]: 5C:A6:20:09:E4:E0 (random), AD evt type 0, AD data len 18, RSSI -82
+[00:00:15.953,735] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:15.953,765] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:15.953,765] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:16.007,202] <dbg> zmk: split_central_device_found: [DEVICE]: F1:10:F4:22:10:4C (random), AD evt type 3, AD data len 31, RSSI -74
+[00:00:16.015,838] <dbg> zmk: split_central_device_found: [DEVICE]: 2B:4F:37:BD:30:0C (random), AD evt type 3, AD data len 31, RSSI -83
+[00:00:16.486,114] <dbg> zmk: split_central_device_found: [DEVICE]: 40:1F:C2:95:86:22 (random), AD evt type 0, AD data len 19, RSSI -83
+[00:00:16.486,145] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:16.486,175] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:16.486,175] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:16.545,593] <dbg> zmk: split_central_device_found: [DEVICE]: 68:88:6F:E2:88:3E (random), AD evt type 2, AD data len 31, RSSI -74
+[00:00:16.555,664] <dbg> zmk: split_central_device_found: [DEVICE]: 6F:92:67:83:BC:CC (random), AD evt type 2, AD data len 31, RSSI -84
+[00:00:16.617,614] <dbg> zmk: split_central_device_found: [DEVICE]: 0D:F3:FB:E0:CD:C7 (random), AD evt type 3, AD data len 31, RSSI -82
+[00:00:16.926,177] <dbg> zmk: split_central_device_found: [DEVICE]: B0:99:D7:E1:6C:83 (public), AD evt type 3, AD data len 28, RSSI -82
+[00:00:16.928,253] <dbg> zmk: split_central_device_found: [DEVICE]: 45:CE:C2:D4:94:4D (random), AD evt type 0, AD data len 17, RSSI -45
+[00:00:16.928,283] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:16.928,283] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:16.928,314] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:17.108,825] <dbg> zmk: split_central_device_found: [DEVICE]: C8:52:E3:C8:48:B0 (random), AD evt type 0, AD data len 8, RSSI -67
+[00:00:17.108,856] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:17.276,184] <dbg> zmk: split_central_device_found: [DEVICE]: EE:53:0A:CA:60:98 (random), AD evt type 0, AD data len 13, RSSI -81
+[00:00:17.276,214] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:17.276,245] <dbg> zmk: split_central_eir_parse: [AD]: 3 data_len 2
+[00:00:17.276,245] <dbg> zmk: split_central_eir_parse: [AD]: 9 data_len 4
+[00:00:17.326,660] <dbg> zmk: split_central_device_found: [DEVICE]: C8:90:3F:94:46:8C (random), AD evt type 3, AD data len 8, RSSI -83
+[00:00:17.653,686] <dbg> zmk: split_central_device_found: [DEVICE]: F2:B7:C9:F3:27:5A (random), AD evt type 3, AD data len 8, RSSI -86
+[00:00:17.824,188] <dbg> zmk: split_central_device_found: [DEVICE]: F6:34:1B:0B:10:A4 (random), AD evt type 0, AD data len 31, RSSI -74
+[00:00:17.824,218] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:17.940,063] <dbg> zmk: split_central_device_found: [DEVICE]: F9:B5:9C:43:B7:09 (random), AD evt type 0, AD data len 31, RSSI -79
+[00:00:17.940,093] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:18.047,241] <dbg> zmk: split_central_device_found: [DEVICE]: 74:AA:CC:3B:5A:22 (random), AD evt type 0, AD data len 17, RSSI -86
+[00:00:18.047,271] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:18.047,271] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:18.047,302] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:18.061,431] <dbg> zmk: split_central_device_found: [DEVICE]: 71:17:B1:B6:DD:4C (random), AD evt type 0, AD data len 19, RSSI -78
+[00:00:18.061,462] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:18.061,462] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:18.061,492] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:18.191,253] <dbg> zmk: split_central_device_found: [DEVICE]: 50:D3:74:86:EF:39 (random), AD evt type 2, AD data len 31, RSSI -67
+[00:00:18.851,654] <dbg> zmk: split_central_device_found: [DEVICE]: 4E:15:75:84:E1:1D (random), AD evt type 0, AD data len 18, RSSI -64
+[00:00:18.851,684] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:18.851,684] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:18.851,715] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:18.907,775] <dbg> zmk: split_central_device_found: [DEVICE]: C1:53:1F:3C:B4:F3 (random), AD evt type 0, AD data len 31, RSSI -61
+[00:00:18.907,775] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:19.092,803] <dbg> zmk: split_central_device_found: [DEVICE]: 53:3E:97:E4:30:76 (random), AD evt type 3, AD data len 17, RSSI -76
+[00:00:19.190,856] <dbg> zmk: split_central_device_found: [DEVICE]: FD:C1:D6:4F:D8:C4 (random), AD evt type 0, AD data len 8, RSSI -52
+[00:00:19.190,856] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:19.266,571] <dbg> zmk: split_central_device_found: [DEVICE]: 5C:A6:20:09:E4:E0 (random), AD evt type 0, AD data len 18, RSSI -82
+[00:00:19.266,601] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:19.266,601] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:19.266,632] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:19.513,092] <dbg> zmk: split_central_device_found: [DEVICE]: 68:88:6F:E2:88:3E (random), AD evt type 2, AD data len 31, RSSI -75
+[00:00:19.615,905] <dbg> zmk: split_central_device_found: [DEVICE]: C2:EA:F5:F4:D9:FD (random), AD evt type 3, AD data len 27, RSSI -65
+[00:00:19.669,006] <dbg> zmk: split_central_device_found: [DEVICE]: 0D:F3:FB:E0:CD:C7 (random), AD evt type 3, AD data len 31, RSSI -77
+[00:00:19.682,922] <dbg> zmk: split_central_device_found: [DEVICE]: 45:CE:C2:D4:94:4D (random), AD evt type 0, AD data len 17, RSSI -45
+[00:00:19.682,952] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:19.682,983] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:19.682,983] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:19.685,760] <dbg> zmk: split_central_device_found: [DEVICE]: E9:CB:6A:A3:D9:D5 (random), AD evt type 0, AD data len 31, RSSI -73
+[00:00:19.685,760] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:20.218,017] <dbg> zmk: split_central_device_found: [DEVICE]: EB:F5:FE:B8:A9:C5 (random), AD evt type 3, AD data len 8, RSSI -46
+[00:00:20.335,723] <dbg> zmk: split_central_device_found: [DEVICE]: B0:99:D7:E1:6C:83 (public), AD evt type 3, AD data len 28, RSSI -82
+[00:00:20.749,725] <dbg> zmk: split_central_device_found: [DEVICE]: 09:DD:10:44:4B:41 (random), AD evt type 0, AD data len 28, RSSI -84
+[00:00:20.749,755] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:20.749,755] <dbg> zmk: split_central_eir_parse: [AD]: 22 data_len 23
+[00:00:21.836,608] <dbg> zmk: split_central_device_found: [DEVICE]: F6:34:1B:0B:10:A4 (random), AD evt type 0, AD data len 31, RSSI -72
+[00:00:21.836,608] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:21.887,756] <dbg> zmk: split_central_device_found: [DEVICE]: E6:97:13:0B:7D:6B (random), AD evt type 3, AD data len 8, RSSI -82
+[00:00:21.947,326] <dbg> zmk: split_central_device_found: [DEVICE]: F9:B5:9C:43:B7:09 (random), AD evt type 0, AD data len 31, RSSI -74
+[00:00:21.947,357] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:21.959,991] <dbg> zmk: split_central_device_found: [DEVICE]: 71:17:B1:B6:DD:4C (random), AD evt type 0, AD data len 19, RSSI -78
+[00:00:21.959,991] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:21.960,021] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:21.960,021] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:22.011,688] <dbg> zmk: split_central_device_found: [DEVICE]: F1:10:F4:22:10:4C (random), AD evt type 3, AD data len 31, RSSI -60
+[00:00:22.267,395] <dbg> zmk: split_central_device_found: [DEVICE]: 2B:4F:37:BD:30:0C (random), AD evt type 3, AD data len 31, RSSI -82
+[00:00:22.440,185] <dbg> zmk: split_central_device_found: [DEVICE]: 4E:15:75:84:E1:1D (random), AD evt type 0, AD data len 18, RSSI -72
+[00:00:22.440,216] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:22.440,246] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:22.440,246] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:22.553,192] <dbg> zmk: split_central_device_found: [DEVICE]: 40:1F:C2:95:86:22 (random), AD evt type 0, AD data len 19, RSSI -83
+[00:00:22.553,192] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:22.553,222] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:22.553,222] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:22.670,928] <dbg> zmk: split_central_device_found: [DEVICE]: 50:D3:74:86:EF:39 (random), AD evt type 2, AD data len 31, RSSI -64
+[00:00:22.688,537] <dbg> zmk: split_central_device_found: [DEVICE]: 68:88:6F:E2:88:3E (random), AD evt type 2, AD data len 31, RSSI -81
+[00:00:22.849,975] <dbg> zmk: split_central_device_found: [DEVICE]: 5C:A6:20:09:E4:E0 (random), AD evt type 0, AD data len 18, RSSI -82
+[00:00:22.850,006] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:22.850,006] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:22.850,036] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:22.993,133] <dbg> zmk: split_central_device_found: [DEVICE]: E1:2F:58:EE:BF:07 (random), AD evt type 3, AD data len 8, RSSI -87
+[00:00:23.107,055] <dbg> zmk: split_central_device_found: [DEVICE]: 53:3E:97:E4:30:76 (random), AD evt type 3, AD data len 17, RSSI -73
+[00:00:23.265,319] <dbg> zmk: split_central_device_found: [DEVICE]: 6F:92:67:83:BC:CC (random), AD evt type 2, AD data len 31, RSSI -84
+[00:00:23.268,981] <dbg> zmk: split_central_device_found: [DEVICE]: 45:CE:C2:D4:94:4D (random), AD evt type 0, AD data len 17, RSSI -45
+[00:00:23.269,012] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:23.269,012] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:23.269,042] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:23.282,348] <dbg> zmk: split_central_device_found: [DEVICE]: EE:53:0A:CA:60:98 (random), AD evt type 0, AD data len 13, RSSI -73
+[00:00:23.282,379] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:23.282,409] <dbg> zmk: split_central_eir_parse: [AD]: 3 data_len 2
+[00:00:23.282,409] <dbg> zmk: split_central_eir_parse: [AD]: 9 data_len 4
+[00:00:23.400,848] <dbg> zmk: split_central_device_found: [DEVICE]: B0:99:D7:E1:6C:83 (public), AD evt type 3, AD data len 28, RSSI -82
+[00:00:23.640,472] <dbg> zmk: split_central_device_found: [DEVICE]: 0D:F3:FB:E0:CD:C7 (random), AD evt type 3, AD data len 31, RSSI -78
+[00:00:23.701,049] <dbg> zmk: split_central_device_found: [DEVICE]: E9:CB:6A:A3:D9:D5 (random), AD evt type 0, AD data len 31, RSSI -63
+[00:00:23.701,049] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:24.359,344] <dbg> zmk: split_central_device_found: [DEVICE]: C9:FC:B0:D7:3D:5F (random), AD evt type 0, AD data len 8, RSSI -75
+[00:00:24.359,344] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:24.663,818] <dbg> zmk: split_central_device_found: [DEVICE]: 71:17:B1:B6:DD:4C (random), AD evt type 0, AD data len 19, RSSI -77
+[00:00:24.663,818] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:24.663,848] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:24.663,848] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:24.909,698] <dbg> zmk: split_central_device_found: [DEVICE]: C1:53:1F:3C:B4:F3 (random), AD evt type 0, AD data len 31, RSSI -64
+[00:00:24.909,729] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:25.205,139] <dbg> zmk: split_central_device_found: [DEVICE]: FD:C1:D6:4F:D8:C4 (random), AD evt type 0, AD data len 8, RSSI -53
+[00:00:25.205,169] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:25.333,709] <dbg> zmk: split_central_device_found: [DEVICE]: D7:C9:9A:C9:53:03 (random), AD evt type 3, AD data len 8, RSSI -75
+[00:00:25.443,603] <dbg> zmk: split_central_device_found: [DEVICE]: FB:3D:64:7F:25:3D (random), AD evt type 3, AD data len 8, RSSI -67
+[00:00:25.448,516] <dbg> zmk: split_central_device_found: [DEVICE]: 4E:15:75:84:E1:1D (random), AD evt type 0, AD data len 18, RSSI -63
+[00:00:25.448,547] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:25.448,547] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:25.448,577] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:25.451,416] <dbg> zmk: split_central_device_found: [DEVICE]: 50:D3:74:86:EF:39 (random), AD evt type 2, AD data len 31, RSSI -63
+[00:00:25.485,534] <dbg> zmk: split_central_device_found: [DEVICE]: 68:88:6F:E2:88:3E (random), AD evt type 2, AD data len 31, RSSI -71
+[00:00:25.633,697] <dbg> zmk: split_central_device_found: [DEVICE]: C2:EA:F5:F4:D9:FD (random), AD evt type 3, AD data len 27, RSSI -64
+[00:00:25.853,454] <dbg> zmk: split_central_device_found: [DEVICE]: F6:34:1B:0B:10:A4 (random), AD evt type 0, AD data len 31, RSSI -79
+[00:00:25.853,485] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:25.917,816] <dbg> zmk: split_central_device_found: [DEVICE]: C9:13:75:42:27:4D (random), AD evt type 0, AD data len 31, RSSI -86
+[00:00:25.917,846] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:26.027,496] <dbg> zmk: split_central_device_found: [DEVICE]: F1:10:F4:22:10:4C (random), AD evt type 3, AD data len 31, RSSI -61
+[00:00:26.149,108] <dbg> zmk: split_central_device_found: [DEVICE]: 5C:A6:20:09:E4:E0 (random), AD evt type 0, AD data len 18, RSSI -82
+[00:00:26.149,139] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:26.149,169] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:26.149,169] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:26.171,600] <dbg> zmk: split_central_device_found: [DEVICE]: B0:99:D7:E1:6C:83 (public), AD evt type 3, AD data len 28, RSSI -86
+[00:00:26.231,506] <dbg> zmk: split_central_device_found: [DEVICE]: EB:F5:FE:B8:A9:C5 (random), AD evt type 3, AD data len 8, RSSI -45
+[00:00:26.287,872] <dbg> zmk: split_central_device_found: [DEVICE]: 45:CE:C2:D4:94:4D (random), AD evt type 0, AD data len 17, RSSI -44
+[00:00:26.287,902] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:26.287,933] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:26.287,933] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:26.351,867] <dbg> zmk: split_central_device_found: [DEVICE]: 0D:F3:FB:E0:CD:C7 (random), AD evt type 3, AD data len 31, RSSI -84
+[00:00:26.462,493] <dbg> zmk: split_central_device_found: [DEVICE]: 71:17:B1:B6:DD:4C (random), AD evt type 0, AD data len 19, RSSI -78
+[00:00:26.462,493] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:26.462,524] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:26.462,524] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:26.691,925] <dbg> zmk: split_central_device_found: [DEVICE]: 40:1F:C2:95:86:22 (random), AD evt type 0, AD data len 19, RSSI -83
+[00:00:26.691,955] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:26.691,955] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:26.691,986] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:26.887,603] <dbg> zmk: split_central_device_found: [DEVICE]: 2B:4F:37:BD:30:0C (random), AD evt type 3, AD data len 31, RSSI -85
+[00:00:27.008,636] <dbg> zmk: split_central_device_found: [DEVICE]: 09:DD:10:44:4B:41 (random), AD evt type 0, AD data len 28, RSSI -81
+[00:00:27.008,666] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:27.008,666] <dbg> zmk: split_central_eir_parse: [AD]: 22 data_len 23
+[00:00:27.114,562] <dbg> zmk: split_central_device_found: [DEVICE]: 53:3E:97:E4:30:76 (random), AD evt type 3, AD data len 17, RSSI -78
+[00:00:27.121,459] <dbg> zmk: split_central_device_found: [DEVICE]: C8:52:E3:C8:48:B0 (random), AD evt type 0, AD data len 8, RSSI -68
+[00:00:27.121,490] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:27.125,549] <dbg> zmk: split_central_device_found: [DEVICE]: 50:D3:74:86:EF:39 (random), AD evt type 2, AD data len 31, RSSI -65
+[00:00:27.188,262] <dbg> zmk: split_central_device_found: [DEVICE]: 6F:92:67:83:BC:CC (random), AD evt type 2, AD data len 31, RSSI -83
+[00:00:27.592,224] <dbg> zmk: split_central_device_found: [DEVICE]: 7A:C1:EE:13:97:C4 (random), AD evt type 0, AD data len 18, RSSI -87
+[00:00:27.592,254] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:27.592,285] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:27.592,285] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:27.708,587] <dbg> zmk: split_central_device_found: [DEVICE]: E9:CB:6A:A3:D9:D5 (random), AD evt type 0, AD data len 31, RSSI -73
+[00:00:27.708,618] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:27.714,508] <dbg> zmk: split_central_device_found: [DEVICE]: 68:88:6F:E2:88:3E (random), AD evt type 2, AD data len 31, RSSI -74
+[00:00:27.899,780] <dbg> zmk: split_central_device_found: [DEVICE]: E6:97:13:0B:7D:6B (random), AD evt type 3, AD data len 8, RSSI -81
+[00:00:27.961,120] <dbg> zmk: split_central_device_found: [DEVICE]: F9:B5:9C:43:B7:09 (random), AD evt type 0, AD data len 31, RSSI -77
+[00:00:27.961,151] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:28.015,441] <dbg> zmk: split_central_device_found: [DEVICE]: B0:99:D7:E1:6C:83 (public), AD evt type 3, AD data len 28, RSSI -82
+[00:00:28.032,684] <dbg> zmk: split_central_device_found: [DEVICE]: F1:10:F4:22:10:4C (random), AD evt type 3, AD data len 31, RSSI -61
+[00:00:28.743,194] <dbg> zmk: split_central_device_found: [DEVICE]: 4E:15:75:84:E1:1D (random), AD evt type 0, AD data len 18, RSSI -63
+[00:00:28.743,225] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:28.743,255] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:28.743,255] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:29.032,836] <dbg> zmk: split_central_device_found: [DEVICE]: 45:CE:C2:D4:94:4D (random), AD evt type 0, AD data len 17, RSSI -45
+[00:00:29.032,836] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:29.032,867] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:29.032,897] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:29.098,876] <dbg> zmk: split_central_device_found: [DEVICE]: 0D:F3:FB:E0:CD:C7 (random), AD evt type 3, AD data len 31, RSSI -80
+[00:00:29.161,956] <dbg> zmk: split_central_device_found: [DEVICE]: 71:17:B1:B6:DD:4C (random), AD evt type 0, AD data len 19, RSSI -78
+[00:00:29.161,987] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:29.161,987] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:29.162,017] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:29.216,339] <dbg> zmk: split_central_device_found: [DEVICE]: FD:C1:D6:4F:D8:C4 (random), AD evt type 0, AD data len 8, RSSI -53
+[00:00:29.216,339] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:29.390,808] <dbg> zmk: split_central_device_found: [DEVICE]: 2B:4F:37:BD:30:0C (random), AD evt type 3, AD data len 31, RSSI -82
+[00:00:29.509,674] <dbg> zmk: split_central_device_found: [DEVICE]: 5E:2B:4B:A6:12:60 (random), AD evt type 3, AD data len 17, RSSI -86
+[00:00:29.636,779] <dbg> zmk: split_central_device_found: [DEVICE]: C2:EA:F5:F4:D9:FD (random), AD evt type 3, AD data len 27, RSSI -65
+[00:00:29.713,439] <dbg> zmk: split_central_device_found: [DEVICE]: 50:D3:74:86:EF:39 (random), AD evt type 2, AD data len 31, RSSI -63
+[00:00:30.011,505] <dbg> zmk: split_central_device_found: [DEVICE]: 40:1F:C2:95:86:22 (random), AD evt type 0, AD data len 19, RSSI -83
+[00:00:30.011,505] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:30.011,535] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:30.011,566] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:30.242,553] <dbg> zmk: split_central_device_found: [DEVICE]: EB:F5:FE:B8:A9:C5 (random), AD evt type 3, AD data len 8, RSSI -40
+[00:00:30.554,016] <dbg> zmk: split_central_device_found: [DEVICE]: 5C:A6:20:09:E4:E0 (random), AD evt type 0, AD data len 18, RSSI -79
+[00:00:30.554,016] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:30.554,046] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:30.554,046] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:31.083,343] <dbg> zmk: split_central_device_found: [DEVICE]: 4F:92:18:BF:AF:8B (random), AD evt type 0, AD data len 19, RSSI -82
+[00:00:31.083,374] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:31.083,374] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:31.083,404] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:31.254,638] <dbg> zmk: split_central_device_found: [DEVICE]: 68:88:6F:E2:88:3E (random), AD evt type 2, AD data len 31, RSSI -77
+[00:00:31.365,447] <dbg> zmk: split_central_device_found: [DEVICE]: D7:C9:9A:C9:53:03 (random), AD evt type 3, AD data len 8, RSSI -78
+[00:00:31.912,597] <dbg> zmk: split_central_device_found: [DEVICE]: E6:97:13:0B:7D:6B (random), AD evt type 3, AD data len 8, RSSI -80
+[00:00:32.041,259] <dbg> zmk: split_central_device_found: [DEVICE]: B0:99:D7:E1:6C:83 (public), AD evt type 3, AD data len 28, RSSI -82
+[00:00:32.050,537] <dbg> zmk: split_central_device_found: [DEVICE]: F1:10:F4:22:10:4C (random), AD evt type 3, AD data len 31, RSSI -61
+[00:00:32.051,025] <dbg> zmk: split_central_device_found: [DEVICE]: 4E:15:75:84:E1:1D (random), AD evt type 0, AD data len 18, RSSI -74
+[00:00:32.051,055] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:32.051,055] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:32.051,086] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:32.334,320] <dbg> zmk: split_central_device_found: [DEVICE]: 45:CE:C2:D4:94:4D (random), AD evt type 0, AD data len 17, RSSI -47
+[00:00:32.334,350] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:32.334,350] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:32.334,381] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:32.652,801] <dbg> zmk: split_central_device_found: [DEVICE]: 0D:F3:FB:E0:CD:C7 (random), AD evt type 3, AD data len 31, RSSI -80
+[00:00:32.938,507] <dbg> zmk: split_central_device_found: [DEVICE]: EE:53:0A:CA:60:98 (random), AD evt type 0, AD data len 13, RSSI -83
+[00:00:32.938,537] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:32.938,537] <dbg> zmk: split_central_eir_parse: [AD]: 3 data_len 2
+[00:00:32.938,568] <dbg> zmk: split_central_eir_parse: [AD]: 9 data_len 4
+[00:00:33.172,424] <dbg> zmk: split_central_device_found: [DEVICE]: 53:3E:97:E4:30:76 (random), AD evt type 3, AD data len 17, RSSI -75
+[00:00:33.179,260] <dbg> zmk: split_central_device_found: [DEVICE]: 6F:92:67:83:BC:CC (random), AD evt type 2, AD data len 31, RSSI -82
+[00:00:33.472,320] <dbg> zmk: split_central_device_found: [DEVICE]: FB:3D:64:7F:25:3D (random), AD evt type 3, AD data len 8, RSSI -70
+[00:00:33.490,386] <dbg> zmk: split_central_device_found: [DEVICE]: 2B:4F:37:BD:30:0C (random), AD evt type 3, AD data len 31, RSSI -79
+[00:00:33.588,500] <dbg> zmk: split_central_device_found: [DEVICE]: 5E:2B:4B:A6:12:60 (random), AD evt type 3, AD data len 17, RSSI -84
+[00:00:33.605,285] <dbg> zmk: split_central_device_found: [DEVICE]: 09:DD:10:44:4B:41 (random), AD evt type 0, AD data len 28, RSSI -83
+[00:00:33.605,285] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:33.605,316] <dbg> zmk: split_central_eir_parse: [AD]: 22 data_len 23
+[00:00:33.724,975] <dbg> zmk: split_central_device_found: [DEVICE]: E9:CB:6A:A3:D9:D5 (random), AD evt type 0, AD data len 31, RSSI -63
+[00:00:33.724,975] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:34.137,573] <dbg> zmk: split_central_device_found: [DEVICE]: 40:1F:C2:95:86:22 (random), AD evt type 0, AD data len 19, RSSI -84
+[00:00:34.137,573] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:34.137,603] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:34.137,603] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 11
+[00:00:34.254,638] <dbg> zmk: split_central_device_found: [DEVICE]: EB:F5:FE:B8:A9:C5 (random), AD evt type 3, AD data len 8, RSSI -51
+[00:00:34.546,844] <dbg> zmk: split_central_device_found: [DEVICE]: 50:D3:74:86:EF:39 (random), AD evt type 2, AD data len 31, RSSI -67
+[00:00:34.966,552] <dbg> zmk: split_central_device_found: [DEVICE]: 68:88:6F:E2:88:3E (random), AD evt type 2, AD data len 31, RSSI -80
+[00:00:35.875,396] <dbg> zmk: split_central_device_found: [DEVICE]: F6:34:1B:0B:10:A4 (random), AD evt type 0, AD data len 31, RSSI -75
+[00:00:35.875,427] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:37.127,105] <dbg> zmk: split_central_device_found: [DEVICE]: B0:99:D7:E1:6C:83 (public), AD evt type 3, AD data len 28, RSSI -87
+[00:00:37.142,608] <dbg> zmk: split_central_device_found: [DEVICE]: 5C:A6:20:09:E4:E0 (random), AD evt type 0, AD data len 18, RSSI -82
+[00:00:37.142,608] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:37.142,639] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:37.142,639] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:37.145,355] <dbg> zmk: split_central_device_found: [DEVICE]: C8:52:E3:C8:48:B0 (random), AD evt type 0, AD data len 8, RSSI -65
+[00:00:37.145,385] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:37.245,666] <dbg> zmk: split_central_device_found: [DEVICE]: FD:C1:D6:4F:D8:C4 (random), AD evt type 0, AD data len 8, RSSI -52
+[00:00:37.245,666] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 6
+[00:00:37.269,134] <dbg> zmk: split_central_device_found: [DEVICE]: 45:CE:C2:D4:94:4D (random), AD evt type 0, AD data len 17, RSSI -45
+[00:00:37.269,165] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:37.269,165] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 9
+[00:00:37.269,195] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:37.270,538] <dbg> zmk: split_central_device_found: [DEVICE]: 0D:F3:FB:E0:CD:C7 (random), AD evt type 3, AD data len 31, RSSI -84
+[00:00:37.548,553] <dbg> zmk: split_central_device_found: [DEVICE]: 4E:15:75:84:E1:1D (random), AD evt type 0, AD data len 18, RSSI -73
+[00:00:37.548,583] <dbg> zmk: split_central_eir_parse: [AD]: 1 data_len 1
+[00:00:37.548,583] <dbg> zmk: split_central_eir_parse: [AD]: 10 data_len 1
+[00:00:37.548,614] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 10
+[00:00:37.973,388] <dbg> zmk: split_central_device_found: [DEVICE]: F9:B5:9C:43:B7:09 (random), AD evt type 0, AD data len 31, RSSI -76
+[00:00:37.973,388] <dbg> zmk: split_central_eir_parse: [AD]: 255 data_len 29
+[00:00:38.052,581] <dbg> zmk: split_central_device_found: [DEVICE]: 2B:4F:37:BD:30:0C (random), AD evt type 3, AD data len 31, RSSI -86
