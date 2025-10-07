@@ -15,9 +15,8 @@ manifest:
     - name: badjeff
       url-base: https://github.com/badjeff 
    
-
-    - name: zmk
-      url-base: https://github.com/zmk
+    - name: zmkfirmware
+      url-base: https://github.com/zmkfirmware
 
   projects:
     - name: zmk
